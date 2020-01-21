@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 # comment
+# comment 2
 
 import sys
 import os
